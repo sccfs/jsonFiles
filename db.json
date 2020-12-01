@@ -85,6 +85,42 @@
       "body": "It made me very uncomfortable, neat.",
       "rating": 7,
       "movieID": 6
+    },
+    {
+      "id": 8,
+      "body": "What does it all mean?",
+      "rating": 5,
+      "movieID": 6
+    },
+    {
+      "id": 9,
+      "body": "It's a retelling of Iphigenia at Aulis by Euripides.",
+      "rating": 3,
+      "movieID": 6
+    },
+     {
+      "id": 10,
+      "body": "And when he had opened the fourth seal, I heard the voice of the fourth beast say, 'Come and see!' And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.",
+      "rating": 10,
+      "movieID": 1
+    },
+    {
+      "id": 11,
+      "body": "One of the best of the New French Extremity",
+      "rating": 9,
+      "movieID": 3
+    },
+    {
+      "id": 12,
+      "body": "Jared Leto is the best Joker.",
+      "rating": 3,
+      "movieID": 2
+    },
+    {
+      "id": 13,
+      "body": "The beginning is too slow.",
+      "rating": 5,
+      "movieID": 1
     }
   ]
 }

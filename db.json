@@ -1,0 +1,90 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Come and See",
+      "year": 1985,
+      "director": "Elem Klimov",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Come_and_See_%28poster%29.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Requiem For a Dream",
+      "year": 2000,
+      "director": "Darren Aronofsky",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/92/Requiem_for_a_dream.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Martyrs",
+      "year": 2008,
+      "director": "Pascal Laugier",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/Martyrs_tp01.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Enter the Void",
+      "year": 2009,
+      "director": "Gaspar Noé",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Enter-the-void-poster.png"
+    },
+    {
+      "id": 5,
+      "title": "Funny Games",
+      "year": 2007,
+      "director": "Michael Haneke",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/Mpafunnygamesposterb.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "director": "Yorgos Lanthimos",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Killing_of_a_Sacred_Deer.png"
+    }
+  ],
+  "ratings": [
+    {
+      "id": 1,
+      "body": "Ivan got his gun.",
+      "rating": 9,
+      "movieID": 1
+    },
+    {
+      "id": 2,
+      "body": "brutal",
+      "rating": 9,
+      "movieID": 3
+    },
+    {
+      "id": 3,
+      "body": "disgusting...",
+      "rating": 2,
+      "movieID": 3
+    },
+    {
+      "id": 4,
+      "body": "Drugs are bad, mmmkay",
+      "rating": 9,
+      "movieID": 2
+    },
+    {
+      "id": 5,
+      "body": "Drugs are bad, mmmkay Part II",
+      "rating": 8,
+      "movieID": 4
+    },
+    {
+      "id": 6,
+      "body": "trippy",
+      "rating": 10,
+      "movieID": 4
+    },
+    {
+      "id": 7,
+      "body": "It made me very uncomfortable, neat.",
+      "rating": 7,
+      "movieID": 3
+    }
+  ]
+}
